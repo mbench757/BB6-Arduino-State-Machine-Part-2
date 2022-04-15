@@ -113,7 +113,7 @@ void toggleYlwLED() {
 
                 // Move to next state
                 currState = elevatorState::CALLED;
-                currState = 9;
+                // currState = 9;
             }
             break;
 
